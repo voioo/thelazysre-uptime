@@ -4,19 +4,19 @@
     "url": "https://thelazysre.com",
     "icon": "https://favicons.githubusercontent.com/thelazysre.com",
     "slug": "the-lazy-sre",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 129,
-    "timeDay": 148,
-    "timeWeek": 138,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 128,
+    "timeDay": 146,
+    "timeWeek": 137,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2022-06-30": 51
+      "2022-06-30": 71
     }
   }
 ]
